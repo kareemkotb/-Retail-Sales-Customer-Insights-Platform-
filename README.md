@@ -50,7 +50,8 @@ retail-insights-platform/
 <img width="697" height="353" alt="image" src="https://github.com/user-attachments/assets/1f85c505-79be-40f5-980c-fef026435fe6" />
 
 ## 📈 6. Tableau Dashboard
-WIP
+Databrick Dashboard
+[Link](https://dbc-7fcd8ddb-8b7f.cloud.databricks.com/dashboardsv3/01f0d526de6e11708beb0976186c251d/published?o=727459033737514)
 
 ## 🔍 7. Key Insights
 The dataset reveals a robust scale with 131,209 unique orders from 131,209 customers, averaging 66.77 products per basket, and nearly 100% repeat customer participation, demonstrating strong platform loyalty. Produce overwhelmingly dominates categories with 409,087 items sold, significantly outpacing dairy eggs (217,051) and snacks (118,862), while top products like Bananas (18,726 sales), Bag of Organic Bananas (15,480), and Organic Strawberries (10,894) highlight consumer preference for fresh, organic produce. Temporal analysis shows Sunday as the peak ordering day with 324,026 orders, complemented by highest hourly volumes between 2-3 PM (119,370 orders), and a 35.39% product reorder conversion rate where top customers place up to 100 lifetime orders.
